@@ -1,1 +1,1 @@
-
+In this project I design an ALU in VHDL, implementing various bitwise, logical, and arithmetic computations for different opcodes. See the pdf of the lab report for more details. Lab3_Part1.vhd and Lab3_Part2.vhd are the primary "wrapper" code files, and use the other .vhd files as components. 

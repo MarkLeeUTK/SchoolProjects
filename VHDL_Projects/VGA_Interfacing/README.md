@@ -1,1 +1,1 @@
-
+This project was an honors project for ECE 357, Digital Logic and Design, in Fall 2019. I connected my laptop, BASYS3 board, and a computer monitor together and implemented a checkerboard display with a movable red square. The main code is contained in Lab4.vhd, with a more detailed report in the associated pdf.

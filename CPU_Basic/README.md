@@ -5,6 +5,7 @@ All instructions for the CPU are 16-bits (2 bytes). There are two instruction ty
 
 Type	Format
 Register (R-type):	Rd[15:14], Rs1[13:12], Rs2[11:10], Shift[9:7], Unused[6:5], Op[4:0]
+
 Immediate (I-type):	Rd/Rs2[15:14], Rs1[13:12], Imm[11:5], Op[4:0]
 
 Opcodes
